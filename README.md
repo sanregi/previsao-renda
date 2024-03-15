@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  Projeto Previsão de Renda - EBAC
+  
 </head>
 <body>
   <h1>Projeto Previsão de Renda</h1>
